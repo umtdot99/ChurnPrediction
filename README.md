@@ -43,5 +43,10 @@ uvicorn app.main:app --reload
 Launch MLFlow Dashboard: To view experiment logs:
 
 ```Bash
+
+
 mlflow ui
 ```
+## Notes
+This project was created as a learning exercise using AI-assisted tools such as ChatGPT, Gemini, and Claude. All code was reviewed, tested, and modified by me.
+
